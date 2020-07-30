@@ -1,13 +1,21 @@
 {
-    "name": "gladcodes/keygen",
+    "name": "acelords/keygen",
     "description": "A fluent PHP random key generator.",
-    "keywords": ["PHP", "random", "key", "generator", "keygen", "key generator"],
+    "keywords": ["PHP", "random", "key", "generator", "keygen", "key generator", "acelords", "lexxyungcarter"],
     "type": "library",
     "license": "MIT",
     "authors": [
         {
-            "name": "Glad Chinda",
-            "email": "gladxeqs@gmail.com"
+            "name": "Lexx YungCarter",
+            "email": "lexxyungcarter@gmail.com",
+            "homepage": "https://github.com/lexxyungcarter",
+            "role": "Founder"
+        },
+        {
+            "name": "AceLords System Engineers",
+            "email": "info@acelords.space",
+            "homepage": "https://acelords.space",
+            "role": "Collaborators"
         }
     ],
     "require": {
@@ -19,6 +27,6 @@
         }
     },
     "require-dev": {
-        "phpunit/phpunit": "^5.7"
+        "phpunit/phpunit": "^5.7|^7.0|^8.0"
     }
 }

@@ -1,7 +1,7 @@
 # Keygen
 > A fluent PHP random key generator.
 
-[![Packagist](https://img.shields.io/packagist/v/gladcodes/keygen.svg)](https://packagist.org/packages/gladcodes/keygen) [![Packagist](https://img.shields.io/packagist/dt/gladcodes/keygen.svg)](https://packagist.org/packages/gladcodes/keygen) [![Packagist](https://img.shields.io/packagist/l/gladcodes/keygen.svg)]()
+[![Packagist](https://img.shields.io/packagist/v/acelords/keygen.svg)](https://packagist.org/packages/acelords/keygen) [![Packagist](https://img.shields.io/packagist/dt/acelords/keygen.svg)](https://packagist.org/packages/acelords/keygen) [![Packagist](https://img.shields.io/packagist/l/acelords/keygen.svg)]()
 
 Keygen is a PHP package that generates random character sequences known as *keys*. The package ships with built-in key generators for four key types namely: *numeric*, *alphanumeric*, *token* and *byte*. Its implementation effectively combines simplicity and expressiveness.
 
@@ -11,7 +11,7 @@ Keygen is a PHP package that generates random character sequences known as *keys
 The Keygen package can be installed easily with [Composer] - require the `gladcodes/keygen` package from the command line.
 
 ```shell
-$ composer require gladcodes/keygen
+$ composer require acelords/keygen
 ```
 
 Alternatively, you can manually add the Keygen package to the `composer.json` file of your project and then run `composer install` from the command line as follows:
@@ -19,7 +19,7 @@ Alternatively, you can manually add the Keygen package to the `composer.json` fi
 ```json
 {
     "require": {
-        "gladcodes/keygen": "~1.1"
+        "acelords/keygen": "^1.0"
     }
 }
 ```
