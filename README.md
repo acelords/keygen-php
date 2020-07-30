@@ -19,7 +19,7 @@ Alternatively, you can manually add the Keygen package to the `composer.json` fi
 ```json
 {
     "require": {
-        "acelords/keygen": "^1.0"
+        "acelords/keygen": "^2.0"
     }
 }
 ```

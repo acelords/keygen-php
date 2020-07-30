@@ -9,7 +9,7 @@
             "name": "Lexx YungCarter",
             "email": "lexxyungcarter@gmail.com",
             "homepage": "https://github.com/lexxyungcarter",
-            "role": "Founder"
+            "role": "Software Developer"
         },
         {
             "name": "AceLords System Engineers",
@@ -27,6 +27,6 @@
         }
     },
     "require-dev": {
-        "phpunit/phpunit": "^5.7|^7.0|^8.0"
+        "phpunit/phpunit": ">=5.7"
     }
 }
