@@ -8,7 +8,7 @@ Keygen is a PHP package that generates random character sequences known as *keys
 ## Installation
 
 ### With Composer
-The Keygen package can be installed easily with [Composer] - require the `gladcodes/keygen` package from the command line.
+The Keygen package can be installed easily with [Composer] - require the `acelords/keygen` package from the command line.
 
 ```shell
 $ composer require acelords/keygen
